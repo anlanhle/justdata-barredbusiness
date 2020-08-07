@@ -1,6 +1,6 @@
 # Data Access License Term
 
-This agreement (“Agreement”) is entered into between the IDA B. WELLS Just Data Lab/Barred Business ("Just Data") and the individual(s) (each a “Recipient”) who download datasets and any other matierials on this [GitHub repository](https://github.com/anlanhle/justdata-barredbusiness) (the "Datatset"). The Dataset belongs to Just Data.
+This agreement (“Agreement”) is entered into between the IDA B. WELLS Just Data Lab/Barred Business ("Just Data") and the individual(s) (each a “Recipient”) who download datasets and any other matierials on the [justdata-barredbusiness GitHub repository](https://github.com/anlanhle/justdata-barredbusiness) (the "Datatset"). The Dataset belongs to Just Data.
 
 ## 1. Limited License
 By downloading the Dataset, you hereby agree to all of the terms specified in this license and in the [JUST Data Lab Data Policy].(https://www.thejustdatalab.com/data-policy). Use of the Dataset shall not be weaponized in anyway: narrative manipulation of this data by the media, use of this data to inform policies that reinforce systemic racism, and use of this data to justify the creation of automated decision systems will not be tolerated. 
